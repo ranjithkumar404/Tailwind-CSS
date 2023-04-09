@@ -1,2 +1,2 @@
 # Tailwind-CSS
-You people can see the basic webpages which is designed using Tailwind css.
+You people can see the basic cloned webpages which is designed using Tailwind css.
